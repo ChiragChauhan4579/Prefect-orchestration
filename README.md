@@ -9,8 +9,12 @@ To run the project, make sure you have Python 3.x installed. You'll also need to
 `pip install -r requirements.txt
 `
 
-Clone the repository to use `git clone https://github.com/your_username/RTA-Dataset-Analysis.git
-cd RTA-Dataset-Analysis`
+Clone the repository to use 
+
+```
+git clone https://github.com/your_username/RTA-Dataset-Analysis.git
+cd RTA-Dataset-Analysis
+```
 
 ## What is Prefect?
 Prefect is an open-source library that enables you to orchestrate your data workflow in Python. Prefect's mission is to eliminate negative engineering, so that you can focus on positive engineering.
